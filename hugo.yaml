@@ -41,7 +41,7 @@ languages:
           weight: 10
 
     params:
-      languageAltTitle: French
+      languageAltTitle: English
       profileMode:
         enabled: true
         title: Kele Wang
@@ -64,12 +64,12 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  author: Kele Wang
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: true
   # disableSpecial1stPost: true
   displayFullLangName: true
@@ -85,12 +85,12 @@ params:
 
   socialIcons:
     - name: github
-      title: View Source on Github
+      title: Github
       url: "https://github.com/keelewang"
     - name: X
-      title: Share PaperMod on X/Twitter
+      title: X/Twitter
       url: "https://twitter.com/keele_wang"
-    - name: instagram
+    - name: Instagram
       title: instagram
       url: "https://www.instagram.com/keele_wang"
 

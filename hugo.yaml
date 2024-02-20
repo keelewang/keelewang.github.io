@@ -87,12 +87,15 @@ params:
     - name: github
       title: Github
       url: "https://github.com/keelewang"
-    - name: X
+    - name: x
       title: X/Twitter
       url: "https://twitter.com/keele_wang"
-    - name: Instagram
+    - name: instagram
       title: instagram
       url: "https://www.instagram.com/keele_wang"
+    - name: telegram
+      title: Telegram
+      url: "https://t.me/wangkele"
 
   editPost:
     URL: "https://github.com/keelewang/hugo-PaperMod/tree/exampleSite/content"

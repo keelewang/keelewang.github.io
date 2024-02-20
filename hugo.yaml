@@ -85,16 +85,12 @@ params:
 
   socialIcons:
     - name: github
-      title: Github
       url: "https://github.com/keelewang"
     - name: x
-      title: X/Twitter
       url: "https://twitter.com/keele_wang"
     - name: instagram
-      title: instagram
       url: "https://www.instagram.com/keele_wang"
     - name: telegram
-      title: Telegram
       url: "https://t.me/wangkele"
 
   editPost:

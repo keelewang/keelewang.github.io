@@ -45,10 +45,10 @@ languages:
       profileMode:
         enabled: true
         title: Kele Wang
-        imageUrl: "https://s2.loli.net/2024/02/20/ZYOrwx1gdUPV3TW.jpg"
+        imageUrl: "https://s2.loli.net/2024/03/21/G9ZnwmTCOPkrzQY.png"
         # imageTitle: ProfileMode image
         # imageWidth: 120
-        # # imageHeight: 120
+        # imageHeight: 120
         # subtitle: "My Beauty and Sorrow"
         buttons:
           # - name: Blog

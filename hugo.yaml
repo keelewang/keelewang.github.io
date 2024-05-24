@@ -91,7 +91,7 @@ params:
     - name: instagram
       url: "https://www.instagram.com/keele_wang"
     - name: telegram
-      url: "https://t.me/wangkele"
+      url: "https://bit.ly/4aEGFLX"
 
   editPost:
     URL: "https://github.com/keelewang/hugo-PaperMod/tree/exampleSite/content"
